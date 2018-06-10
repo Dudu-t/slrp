@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbf21891-6ded-41f9-85b3-7a82f21985d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/slrp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/charts-chartjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/charts-flot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/charts-peity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/font-fontawesome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/font-themify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/forms-advanced.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/forms-basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/maps-gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/maps-vector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/page-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/page-register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/pages-forget.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/tables-basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/tables-data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-modals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-progressbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-social-buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-switches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-tabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/ui-typgraphy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/template/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/avatar/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flag/du.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flag/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flag/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flag/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flag/us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ae.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/al.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/am.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/aq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/as.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/au.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/aw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/az.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ba.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/be.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/br.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/by.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/bz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ci.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/co.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/cz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/de.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/dj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/dk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/dm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/do.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/dz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/eg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/eh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/er.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/es-ct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/es.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/et.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/eu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/fr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ga.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gb-eng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gb-nir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gb-sct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gb-wls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/gy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/hk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/hm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/hn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/hr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ht.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/hu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/id.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/il.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/im.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/iq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/is.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/it.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/je.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/jm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/jo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/jp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/km.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ky.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/kz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/la.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/li.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/lv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ma.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/md.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/me.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ml.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/my.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/mz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/na.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ni.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/np.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/nz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/om.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/pw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/py.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/qa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/re.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/rs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/rw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/se.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/si.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/so.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/st.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/sz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/td.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/th.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/to.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/tz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ua.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/um.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/un.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/uy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/uz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/va.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/vc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/vg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/vi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/vn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/vu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/wf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/ye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/yt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/za.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/zm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/1x1/zw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ae.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/al.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/am.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/aq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/as.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/au.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/aw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/az.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ba.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/be.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/br.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/by.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/bz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ci.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/co.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/cz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/de.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/dj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/dk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/dm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/do.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/dz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/eg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/eh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/er.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/es-ct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/es.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/et.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/eu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/fr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ga.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gb-eng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gb-nir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gb-sct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gb-wls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/gy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/hk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/hm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/hn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/hr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ht.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/hu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/id.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/il.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/im.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/iq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/is.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/it.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/je.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/jm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/jo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/jp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/km.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ky.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/kz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/la.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/li.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/lv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ma.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/md.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/me.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ml.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/my.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/mz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/na.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ni.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/np.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/nz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/om.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/pw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/py.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/qa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/re.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/rs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/rw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/se.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/si.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/so.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/st.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/sz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/td.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/th.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/to.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/tz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ua.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/um.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/un.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/uy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/uz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/va.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/vc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/vg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/vi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/vn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/vu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/wf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/ye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/yt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/za.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/zm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/4x3/zw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ae.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/al.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/am.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/aq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/as.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/au.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/aw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/az.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ba.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/be.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/br.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/by.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/bz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ci.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/co.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/cz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/de.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/dj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/dk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/dm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/do.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/dz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/eg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/eh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/er.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/es.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/et.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/fr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ga.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/gy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/hk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/hm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/hn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/hr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ht.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/hu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/id.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/il.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/im.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/iq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/is.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/it.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/je.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/jm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/jo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/jp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/km.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ky.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/kz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/la.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/li.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/lv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ma.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/md.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/me.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ml.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/my.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/mz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/na.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ni.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/np.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/nz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/om.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/pw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/py.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/qa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/re.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/rs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/rw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/se.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/si.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/so.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/st.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/sz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/td.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/th.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/to.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/tz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ua.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/um.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/uy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/uz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/va.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/vc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/vg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/vi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/vn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/vu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/wf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/ye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/yt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/za.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/zm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/flags/zw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/twitter_corner_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/galeria/twitter_corner_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lib/js/checkLogged.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/public_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/bootstrap-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/cs-skin-elastic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/flag-icon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/chosen/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/chosen/chosen-sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/chosen/chosen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/chosen/chosen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/datatable/buttons.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/datatable/buttons.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/datatable/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/lib/vector-map/jqvmap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/css/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/codropsicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/codropsicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/codropsicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/codropsicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/codropsicons/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/icomoon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/chartjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/less.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chart-js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chart-js/chartjs-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chosen/chosen.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chosen/chosen.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chosen/chosen.proto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/chosen/chosen.proto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/buttons.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/buttons.colVis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/buttons.flash.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/buttons.html5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/buttons.print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/dataTables.buttons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/datatables-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/data-table/vfs_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/curvedLines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/flot-chart-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.crosshair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.threshold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/flot-chart/jquery.flot.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/gauge/gauge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/gmap/gmap.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/gmap/gmapApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/gmap/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/gmap/gmaps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/peitychart/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/peitychart/peitychart.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.algeria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.argentina.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.brazil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.europe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.france.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.germany.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.greece.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.iran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.iraq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.russia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.tunisia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.turkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.usa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/country/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/jquery.vmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/jquery.vmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/lib/vector-map/vector.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/selectFx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/vendor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/vendor/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/vendor/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/js/widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_gauge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_switches.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/_widgets.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/0c2f4e7e3ce607a0f7f238a71122520ed74aaa15/variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_alert.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_badge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_box-shadow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_breakpoints.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_caret.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_float.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_hover.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_lists.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_screen-reader.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-hide.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_text-truncate.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_transition.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/1ea663541d8aa72314e8caea4edf18e46ea3ed2e/_visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_alert.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_badge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_breadcrumb.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_button-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_card.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_custom-forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_dropdown.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_images.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_input-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_modal.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_nav.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_popover.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_progress.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_reboot.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_root.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_transitions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/590089d940a3045eb8c8b24b183c435305a7d5a9/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_alert.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_badge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_breadcrumb.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_button-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_card.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_carousel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_close.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_code.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_custom-forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_dropdown.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_images.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_input-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_jumbotron.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_modal.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_nav.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_navbar.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_popover.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_print.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_progress.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_reboot.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_root.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_tooltip.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_transitions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_type.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_utilities.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/62cfef4a3fbfab02df9a4ee49a4d404e06273937/bootstrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_gauge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_switches.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/_widgets.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/socials.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6da42945727bdadaec570db1596987e0a46bfa4d/variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_background.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_borders.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_display.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_flex.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_float.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_position.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_screenreaders.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_sizing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_spacing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/6e69d195df721b3a89b57cbd4813c065acff1449/_visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_alert.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_badge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_box-shadow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_breakpoints.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_caret.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_float.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_hover.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_lists.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_screen-reader.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-hide.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_text-truncate.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_transition.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/c64c3075ab570bf2e2c270d1fb05ff7e3db68931/_visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_align.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_background.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_borders.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_display.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_embed.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_flex.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_float.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_position.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_screenreaders.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_sizing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_spacing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/.sass-cache/d192277f41c6848ff7411af310ee7b2a42ab6d76/_visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/_gauge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/_switches.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/socials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/socials.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/socials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/templates/sufee_admin/scss/widgets.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/public_html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initSystem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/lib/js/initSystem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="56" column="65" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkLogged.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/lib/js/checkLogged.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/page-login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consultSystem.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/lib/php/consultSystem.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginSystem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/lib/js/loginSystem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>images/</find>
+      <find>templates/images</find>
+      <find>tempaltes</find>
+      <find>templates/</find>
+      <find>black</find>
+      <find>template</find>
+      <find>toggle</find>
+      <find>menuToggle</find>
+      <find>menutog</find>
+      <find>dashboard</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>www/galeria/</replace>
+      <replace>/galeria/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/lib/js/initSystem" />
+        <option value="$PROJECT_DIR$/www/lib/js/checkLogin.js" />
+        <option value="$PROJECT_DIR$/www/templates/sufee_admin/js/main.js" />
+        <option value="$PROJECT_DIR$/www/lib/js/initSystem.js" />
+        <option value="$PROJECT_DIR$/www/templates/sufee_admin/html/page-login.html" />
+        <option value="$PROJECT_DIR$/www/lib/js/checkLogged.js" />
+        <option value="$PROJECT_DIR$/www/lib/js/loginSystem.js" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/www/lib/php/consultSystem.php" />
+        <option value="$PROJECT_DIR$/www/templates/sufee_admin/html/home.html" />
+        <option value="$PROJECT_DIR$/www/public_html/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sufee_admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="slrp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slrp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sufee_admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\slrp\www\lib\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf21891-6ded-41f9-85b3-7a82f21985d5" name="Default" comment="" />
+      <created>1528412852920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528412852920</updated>
+      <workItem from="1528412856154" duration="2681000" />
+      <workItem from="1528416215102" duration="8489000" />
+      <workItem from="1528484102680" duration="15979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27149000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489019" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10608">
+          <caret line="624" selection-start-line="624" selection-end-line="624" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/page-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/php/consultSystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/js/checkLogged.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11832">
+          <caret line="696" selection-start-line="696" selection-end-line="696" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/js/checkLogged.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../farmaciaplus/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/php/consultSystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/js/loginSystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/page-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/js/checkLogged.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sufee_admin/html/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="56" column="65" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/js/initSystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

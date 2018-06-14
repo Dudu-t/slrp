@@ -12,37 +12,37 @@
 
         <div id="main-menu" class="main-menu collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="active">
-                    <a href=""> <i class="menu-icon fa fa-dashboard"></i>Feed de Notícias</a>
+                <li class="itens" id="feedLi">
+                    <a href="#" id="feedA"> <i class="menu-icon fa fa-dashboard"></i>Feed de Notícias</a>
                 </li>
                 <h3 class="menu-title">Painel do Jogador</h3><!-- /.menu-title -->
-                <li class="">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-users"></i>Personagens</a>
+                <li id="meuPersonagemLi" class="itens">
+                    <a href="#" id="meuPersonagemA" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-users"></i>Personagens</a>
                 </li>
-                <li class="">
+                <li class="itens">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-user"></i>Informações do Jogador</a>
                 </li>
-                <li class="">
+                <li class="itens">
                     <a href="#" class="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-credit-card"></i>Premium Center</a>
                 </li>
 
                 <h3 class="menu-title">Painel do Administrador</h3><!-- /.menu-title -->
 
-                <li>
+                <li class="itens">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa  fa-archive"></i>Aplicações</a>
                 </li>
-                <li>
+                <li class="itens">
                     <a href=""><i class="menu-icon fa fa-gavel"></i>Aplicar Punição</a>
                 </li>
                 <li>
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-search"></i>Pesquisar Jogador</a>
-                <h3 class="menu-title">Painel Executivo</h3><!-- /.menu-title -->
-                <li class="">
+                    <h3 class="menu-title">Painel Executivo</h3><!-- /.menu-title -->
+                <li class="itens">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa  fa-bar-chart-o"></i>Estatística</a>
 
                 </li>
-                <li class="">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa  fa-desktop"></i>Gerencia Jogador</a>
+                <li class="itens">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa  fa-desktop"></i>Gerenciar Jogador</a>
 
                 </li>
             </ul>
@@ -54,7 +54,7 @@
 
 <!-- Right Panel -->
 
-<div id="right-panel" class="right-panel bg-white container-fluid">
+<div id="right-panel" class="right-panel bg-white">
 
     <!-- Header-->
     <header id="header" class="header">
@@ -178,18 +178,8 @@
 
 
 
-    <div class="content mt-3">
-        <div class="row"><div class="col-lg-12 ">
-            <div class="card shadow">
-                <div class="card-header">
-                    <strong class="card-title">Abertura do Servidor<small><span class="badge badge-success float-right mt-1">Success</span></small></strong>
-                </div>
-                <div class="card-body">
-                    <p class="card-text col-md-12" style="">Aguardando a finalização do Desenvolvimento.</p>
-                </div>
-            </div>
-        </div>
-        </div>
+    <div class="content mt-3" id="content">
+
 
     </div>
 
@@ -201,6 +191,7 @@
 </div> <!-- .content -->
 </div><!-- /#right-panel -->
 <script src="www/lib/js/checkLogged.js"></script>
+<script src="www/lib/js/redirectSystem.js"></script>
 <script src="www/templates/sufee_admin/js/plugins.js"></script>
 <script src="www/templates/sufee_admin/js/main.js"></script>
 <script>$('body').removeClass('bg-dark');</script>

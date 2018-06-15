@@ -5,21 +5,29 @@ $(function () {
         var user = $('input#user').val();
         var pass = $('input#pass').val();
         if (user === "" || pass === ""){
+            $('div#loginBlock').addClass("border-danger");
+            $('div#retorno').html('<div class="sufee-alert alert with-close alert-danger alert-dismissible">Preencha todos os campos.<button type="button" class="close" data-dismiss="alert"aria-label="Close"> <span aria-hidden="true">×</span></button></div>');
             if (user === ""){
                 $('input#user').addClass('is-invalid');
+                $('div.container').effect("shake");
+
 
             }
             else{
                 $('input#user').removeClass('is-invalid');
+
             }
             if (pass === ""){
                 $('input#pass').addClass('is-invalid');
+                $('div.container').effect("shake");
             }
             else{
                 $('input#pass').removeClass('is-invalid');
+
             }
         }
         else {
+            $('div#loginBlock').removeClass("border-danger");
             $.ajax({
                 method: "POST",
                 url: "www/lib/php/consultSystem.php",
@@ -40,6 +48,11 @@ $(function () {
                 }
                 else{
                     $('div.container').effect("shake");
+                    $('div#loginBlock').addClass("border-danger");
+                    $('input#pass').addClass("is-invalid");
+                    $('input#user').addClass("is-invalid");
+                    $('div#retorno').html('<div class="sufee-alert alert with-close alert-danger alert-dismissible"> Seu usuário e/ou senha não foram autenticados.<br /> Tente novamente.<button type="button" class="close" data-dismiss="alert"aria-label="Close"> <span aria-hidden="true">×</span></button></div>');
+
 
                 }
             });

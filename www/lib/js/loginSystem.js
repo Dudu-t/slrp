@@ -4,6 +4,7 @@ $(function () {
     $('form#login').submit(function () {
         var user = $('input#user').val();
         var pass = $('input#pass').val();
+        var tokenKey = $('input#token').val();
         if (user === "" || pass === ""){
             $('div#loginBlock').addClass("border-danger");
             $('div#retorno').html('<div class="sufee-alert alert with-close alert-danger alert-dismissible">Preencha todos os campos.<button type="button" class="close" data-dismiss="alert"aria-label="Close"> <span aria-hidden="true">×</span></button></div>');
@@ -31,7 +32,7 @@ $(function () {
             $.ajax({
                 method: "POST",
                 url: "www/lib/php/consultSystem.php",
-                data: {username: user, password: pass},
+                data: {username: user, password: pass,  token: tokenKey},
                 dataType: "json"
             }).done(function (e) {
                 if (e.autenticado === 1){

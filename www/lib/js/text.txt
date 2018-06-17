@@ -1,0 +1,259 @@
+array(1) {
+  [0]=>
+  array(127) {
+    ["ID"]=>
+    string(1) "1"
+    ["Username"]=>
+    string(6) "$truth"
+    ["Character"]=>
+    string(13) "David_Andison"
+    ["Password"]=>
+    string(4) "abcd"
+    ["Secret"]=>
+    string(4) "abcd"
+    ["Created"]=>
+    string(1) "1"
+    ["Activated"]=>
+    string(1) "1"
+    ["Email"]=>
+    string(21) "akkawit.tah@gmail.com"
+    ["Gender"]=>
+    string(1) "0"
+    ["Birthdate"]=>
+    string(4) "1995"
+    ["Origin"]=>
+    string(10) "Los Santos"
+    ["Model"]=>
+    string(3) "119"
+    ["Char"]=>
+    string(3) "281"
+    ["PhoneNumbr"]=>
+    string(5) "87241"
+    ["PhoneModel"]=>
+    string(1) "1"
+    ["PhoneSilent"]=>
+    string(1) "0"
+    ["PhoneAir"]=>
+    string(1) "0"
+    ["PhoneRingtone"]=>
+    string(1) "2"
+    ["PhoneTextRingtone"]=>
+    string(1) "0"
+    ["PosX"]=>
+    string(7) "1927.18"
+    ["PosY"]=>
+    string(8) "-1747.03"
+    ["PosZ"]=>
+    string(7) "13.5468"
+    ["PosA"]=>
+    string(7) "178.543"
+    ["Local"]=>
+    string(3) "101"
+    ["SpawnHealth"]=>
+    string(2) "25"
+    ["Hunger"]=>
+    string(2) "19"
+    ["Health"]=>
+    string(3) "100"
+    ["Armour"]=>
+    string(1) "0"
+    ["Interior"]=>
+    string(1) "0"
+    ["World"]=>
+    string(1) "0"
+    ["Faction"]=>
+    string(1) "7"
+    ["FactionRank"]=>
+    string(1) "1"
+    ["Injured"]=>
+    string(1) "0"
+    ["playerTimeout"]=>
+    string(1) "0"
+    ["SpawnPoint"]=>
+    string(1) "1"
+    ["SpawnType"]=>
+    string(1) "0"
+    ["Admin"]=>
+    string(4) "1338"
+    ["AdminName"]=>
+    string(23) "Administrator Community"
+    ["PlayingHours"]=>
+    string(3) "649"
+    ["CreateDate"]=>
+    string(1) "0"
+    ["LastLogin"]=>
+    string(10) "1526784794"
+    ["LastIP"]=>
+    string(13) "192.168.0.103"
+    ["Accent"]=>
+    NULL
+    ["Level"]=>
+    string(1) "3"
+    ["Exp"]=>
+    string(1) "0"
+    ["MedicBill"]=>
+    string(1) "0"
+    ["plaUpgrade"]=>
+    string(2) "25"
+    ["DonateRank"]=>
+    string(1) "3"
+    ["DonateExpired"]=>
+    string(19) "2017-12-12 20:11:52"
+    ["PayDay"]=>
+    string(1) "6"
+    ["PayDayHad"]=>
+    string(1) "4"
+    ["PayCheck"]=>
+    string(5) "34250"
+    ["ChequeCash"]=>
+    string(1) "0"
+    ["BankAccount"]=>
+    string(6) "219898"
+    ["Cash"]=>
+    string(5) "11860"
+    ["Savings"]=>
+    string(1) "0"
+    ["SavingsCollect"]=>
+    string(1) "0"
+    ["playerHouseKey"]=>
+    string(2) "-1"
+    ["PlayerBusinessKey"]=>
+    string(2) "-1"
+    ["AlcoholPerk"]=>
+    string(1) "0"
+    ["DrugPerk"]=>
+    string(1) "0"
+    ["MiserPerk"]=>
+    string(1) "0"
+    ["PainPerk"]=>
+    string(1) "0"
+    ["TraderPerk"]=>
+    string(1) "0"
+    ["Gun1"]=>
+    string(1) "0"
+    ["Gun2"]=>
+    string(1) "0"
+    ["Gun3"]=>
+    string(2) "24"
+    ["Ammo1"]=>
+    string(1) "0"
+    ["Ammo2"]=>
+    string(1) "0"
+    ["Ammo3"]=>
+    string(2) "99"
+    ["OnDuty"]=>
+    string(1) "1"
+    ["WpGun1"]=>
+    string(1) "0"
+    ["WpGun2"]=>
+    string(1) "3"
+    ["WpGun3"]=>
+    string(2) "24"
+    ["WpGun4"]=>
+    string(2) "25"
+    ["WpGun5"]=>
+    string(1) "0"
+    ["WpGun6"]=>
+    string(1) "0"
+    ["WpGun7"]=>
+    string(1) "0"
+    ["WpGun8"]=>
+    string(1) "0"
+    ["WpGun9"]=>
+    string(1) "0"
+    ["WpGun10"]=>
+    string(2) "41"
+    ["WpGun11"]=>
+    string(1) "0"
+    ["WpGun12"]=>
+    string(1) "0"
+    ["WpGun13"]=>
+    string(1) "0"
+    ["WpAmmo1"]=>
+    string(1) "0"
+    ["WpAmmo2"]=>
+    string(1) "1"
+    ["WpAmmo3"]=>
+    string(3) "146"
+    ["WpAmmo4"]=>
+    string(2) "84"
+    ["WpAmmo5"]=>
+    string(1) "0"
+    ["WpAmmo6"]=>
+    string(1) "0"
+    ["WpAmmo7"]=>
+    string(1) "0"
+    ["WpAmmo8"]=>
+    string(1) "0"
+    ["WpAmmo9"]=>
+    string(1) "0"
+    ["WpAmmo10"]=>
+    string(4) "5000"
+    ["WpAmmo11"]=>
+    string(1) "0"
+    ["WpAmmo12"]=>
+    string(1) "0"
+    ["WpAmmo13"]=>
+    string(1) "0"
+    ["Radio"]=>
+    string(1) "8"
+    ["RadioChannel"]=>
+    string(3) "911"
+    ["RadioSlot"]=>
+    string(1) "1"
+    ["RadioAuth"]=>
+    string(3) "100"
+    ["playerJob"]=>
+    string(1) "2"
+    ["playerSideJob"]=>
+    string(1) "3"
+    ["playerJobRank"]=>
+    string(1) "3"
+    ["ContractTime"]=>
+    string(2) "25"
+    ["playerCareer"]=>
+    string(2) "64"
+    ["PlayerCarkey"]=>
+    string(4) "9999"
+    ["Checkpoint_Type"]=>
+    string(1) "1"
+    ["Checkpoint_X"]=>
+    string(7) "2825.34"
+    ["Checkpoint_Y"]=>
+    string(8) "-2404.09"
+    ["Checkpoint_Z"]=>
+    string(7) "10.5811"
+    ["Fishes"]=>
+    string(3) "181"
+    ["QAPoint"]=>
+    string(1) "0"
+    ["OOCMask"]=>
+    string(1) "1"
+    ["Attribute"]=>
+    string(26) "�٧ 180 ���˹ѡ 68 �ռ� ��"
+    ["Jailed"]=>
+    string(1) "0"
+    ["Jailtime"]=>
+    string(1) "0"
+    ["Jailtime2"]=>
+    string(1) "0"
+    ["FightStyle"]=>
+    string(1) "0"
+    ["CarLic"]=>
+    string(1) "1"
+    ["WepLic"]=>
+    string(1) "1"
+    ["ADPoint"]=>
+    string(1) "1"
+    ["PackageWeapons"]=>
+    string(47) "0=0|0=0|0=0|0=0|0=0|0=0|0=0|0=0|0=0|0=0|0=0|0=0"
+    ["PrimaryLicense"]=>
+    string(1) "0"
+    ["SecondaryLicense"]=>
+    string(6) "253348"
+    ["CCWLicense"]=>
+    string(1) "1"
+    ["playerSWAT"]=>
+    string(1) "1"
+  }
+}

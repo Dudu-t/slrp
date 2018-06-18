@@ -84,7 +84,8 @@ if ($_POST['token'] == $_SESSION['token']) {
     // Sessão SEGURANÇA MÀXIMA
     if (isset($_SESSION['Account'])) {
         if(isset($_POST['getPerson'])){ //Função que retorna os dados do personagem para o javascript
-         echo json_encode(getPersons($_SESSION['Account']));
+
+            echo json_encode(getPersons($_SESSION['Account']));
 
 
             exit;

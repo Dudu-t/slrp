@@ -5,7 +5,7 @@ $.ajax('www/templates/sufee_admin/html/home.html').done(function (data) {
         data: {tokenRequest: 1},
         dataType: "json"
     }).done(function (e) {
-        console.log(e);
+        //console.log(e);
         $('input#token').val(e.tokenAuth);
         $('div#conteudo').html(data);
     });

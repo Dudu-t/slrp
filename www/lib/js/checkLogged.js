@@ -12,7 +12,7 @@ $.ajax({
         });
     }
 }).fail(function () {
-    $.ajax('www/templates/sufee_admin/html/page-login.html').done(function (data) {
-        $('div#conteudo').html(data);
-    });
+        $.ajax('www/templates/sufee_admin/html/page-login.html').done(function (data) {
+            $('div#conteudo').html(data);
+        });
 });

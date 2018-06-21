@@ -36,8 +36,11 @@ $(function () {
         }
         else {
             $('div#loginBlock').removeClass("border-danger");
-
-            if (erro < 3 && $.cookie('tempo') == 0){
+            if (typeof  $.cookie('tempo') === 'undefined'){
+                $.cookie('tempo', 0);
+            }
+            console.log(erro+' '+$.cookie('tempo'));
+            if (erro < 3 &&  $.cookie('tempo') == 0){
                 $.ajax({
                     method: "POST",
                     url: "www/lib/php/consultSystem.php",
@@ -77,7 +80,7 @@ $(function () {
                 $('input#user').addClass("is-invalid");
                 $('div#iconePass').addClass("border-danger");
                 $('div#iconeUser').addClass("border-danger");
-                if (tempo == 0) {
+                if (tempo === 0) {
                     var cookie = $.cookie('tempo');
                     if (cookie > 0){
 
@@ -89,7 +92,7 @@ $(function () {
                     var temp = setInterval(function () {
                         tempo--;
                         $.cookie('tempo', tempo);
-                        if (tempo == 0) {
+                        if (tempo === 0) {
                             clearInterval(temp);
                             erro = 0;
                             setTimeout(function () {

@@ -1,0 +1,150 @@
+<script src="www/lib/js/checkLogged.js"></script>
+<button type="button" class="btn btn-info voltar mb-3 shadow"><i class="ti-arrow-left"></i> Voltar</button>
+<div class="conteudoS card shadow">
+<div class="row">
+    <div class="col-md-12">
+        <div class="">
+            <div class="twt-feed bg-dark">
+                <div class="corner-ribon black-ribon">
+                    <i class="fa fa-twitter"></i>
+                </div>
+                <div class="media"><a href="#">
+                    <img class="mr-1" src="" style="width: 120px!important; height: 200px!important;" id="skin">
+                </a>
+                    <div class="media-body">
+                        <h2 class="text-white display-6" id="charName"></h2>
+                        <span class="location text-sm-center mt-4 mb-5"> <i class="fa fa-map-marker"></i> <span id="origin"></span></span>
+                    </div>
+                </div>
+                <div class="mt-4 col-md-12">
+                    <h5 style="color: black!important;"> Informações do Personagem</h5>
+                    <hr />
+                    <div class="col-md-4">
+                        <div class="card border-primary shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-time text-primary border-light"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Total de Horas Jogadas</div>
+                                        <div class="stat-digit" id="playingHours"> </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-primary shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-stats-up text-primary border-light"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Level</div>
+                                        <div class="stat-digit" id="level"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-primary shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-info text-primary border-light"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Experiência</div>
+                                        <div class="stat-digit" id="xp"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card shadow" id="carlic">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i id="iconCarLic"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Licença de Motorista</div>
+                                        <div class="stat-digit" id="valCarLic"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card shadow" id="weaponlic">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i id="iconWeaponLic"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Porte de Armas</div>
+                                        <div class="stat-digit" id="valWepLic"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-3 col-md-12">
+                    <h5 style="color: black!important;">Informações Financeiras</h5>
+                    <hr />
+                    <div class="col-md-4">
+                        <div class="card border-success shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-money text-success border-success"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">PayCheck</div>
+                                        <div class="stat-digit" id="paycheck"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-success shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-wallet text-success border-success"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Carteira</div>
+                                        <div class="stat-digit" id="Cash"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-success shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-credit-card text-success primary border-success"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Conta Bancária</div>
+                                        <div class="stat-digit" id="bankaccount"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-success shadow">
+                            <div class="card-body">
+                                <div class="stat-widget-one">
+                                    <div class="stat-icon dib"><i class="ti-save text-success border-success"></i></div>
+                                    <div class="stat-content dib">
+                                        <div class="stat-text">Poupança</div>
+                                        <div class="stat-digit" id="savings"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<button type="button" class="btn btn-info voltar shadow mb-4"><i class="ti-arrow-left"></i> Voltar</button>

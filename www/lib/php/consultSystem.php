@@ -84,8 +84,14 @@ if ($_POST['token'] == $_SESSION['token']) {
     // Sessão SEGURANÇA MÀXIMA
     if (isset($_SESSION['Account'])) {
         if(isset($_POST['getPerson'])){ //Função que retorna os dados do personagem para o javascript
-
-            echo json_encode(getPersons($_SESSION['Account']));
+            $persom = getPersons($_SESSION['Account']);
+            foreach($persom as $for=>$subarray){
+                 $persom[$for]['PayCheck'] = number_format($persom[$for]['PayCheck'], 2, ',', '.');
+                 $persom[$for]['Cash'] = number_format($persom[$for]['Cash'], 2, ',', '.');
+                 $persom[$for]['BankAccount'] = number_format($persom[$for]['BankAccount'], 2, ',', '.');
+                 $persom[$for]['Savings'] = number_format($persom[$for]['Savings'], 2, ',', '.');
+            }
+          echo json_encode($persom);
 
 
             exit;
